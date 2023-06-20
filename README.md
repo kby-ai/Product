@@ -4,6 +4,8 @@
   </a>  
 </p>
 
+# Documents
+Help Center: https://docs.kby-ai.com
 
 # Product
 We offer SDKs for Face Recognition, Face Liveness Detection, and ID Card Recognition.
@@ -68,14 +70,15 @@ We offer SDKs for Face Recognition, Face Liveness Detection, and ID Card Recogni
   <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
 </a>
 
-## App Store
+### 3. App Store
 
 <a href="https://apps.apple.com/us/developer/hafiz-asif-ali/id1683604200" target="_blank">
   <img alt="" src="https://user-images.githubusercontent.com/125717930/235276083-d20fe057-214d-497c-a431-4569bbeed2fe.png" height=80/>
 </a>
 
 ## Contact Us
-```
+Website: https://kby-ai.com
+
 Email: contact@kby-ai.com
 
 Telegram: @kbyai
@@ -83,4 +86,3 @@ Telegram: @kbyai
 WhatsApp: +19092802609
 
 Skype: live:.cid.66e2522354b1049b
-```
