@@ -14,7 +14,7 @@ We offer SDKs for Face Recognition, Face Liveness Detection, and ID Card Recogni
 
 - [Face Recognition SDK](https://github.com/kby-ai/Face-Recognition-SDK)
 
-- [IDCard Recognition SDK](https://github.com/kby-ai/IDCard-Recognition-SDK)
+- [ID Card Recognition SDK](https://github.com/kby-ai/IDCard-Recognition-SDK)
 
 # Demo Project
 ## Mobile(Android, iOS)
