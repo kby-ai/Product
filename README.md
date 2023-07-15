@@ -30,6 +30,8 @@ We offer SDKs for Face Recognition, Face Liveness Detection, and ID Card Recogni
 
 - [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
 
+- [Face Recognition - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
+
 ### 3. Face Attribute Demo
 - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 
