@@ -8,7 +8,7 @@
 Help Center: https://docs.kby-ai.com
 
 # Product
-We offer SDKs for Face Recognition, Face Liveness Detection, and ID Card Recognition.
+We offer SDKs for Face Recognition, Face Liveness Detection, Face Anti-Spoofing, and ID Card Recognition.
 
 - [Face Liveness Detection SDK](https://github.com/kby-ai/Face-Liveness-Detection-SDK)
 
