@@ -18,7 +18,7 @@ We offer SDKs for Face Recognition, Face Liveness Detection(Face Anti-Spoofing),
 ## 1. Face Liveness Detection Demo
 - [Face Liveness Detection - Android(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-Android)
 - [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)
-- [Face Liveness Detection - Docker](https://github.com/kby-ai/FaceLivenessDetection-Docker)
+- [Face Liveness Detection - Linux](https://github.com/kby-ai/FaceLivenessDetection-Docker)
 - [Face Liveness Detection - Windows](https://github.com/kby-ai/FaceLivenessDetection-Windows)
 
 ## 2. Face Recognition Demo
@@ -26,7 +26,7 @@ We offer SDKs for Face Recognition, Face Liveness Detection(Face Anti-Spoofing),
 - [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
 - [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
 - [Face Recognition - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
-- [Face Recognition - Docker](https://github.com/kby-ai/FaceRecognition-Docker)
+- [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)
 - [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
 
 ## 3. Face Attribute Demo
@@ -36,7 +36,7 @@ We offer SDKs for Face Recognition, Face Liveness Detection(Face Anti-Spoofing),
 ## 4. ID Card Recognition Demo
 - [IDCardRecognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)
 - [IDCardRecognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)
-- [IDCardRecognition - Docker](https://github.com/kby-ai/IDCardRecognition-Docker)
+- [IDCardRecognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)
 - [IDCardRecognition - Windows](https://github.com/kby-ai/FaceLivenessDetection-Windows)
 
 # Test Product
