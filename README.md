@@ -17,29 +17,37 @@ Besides that, we can provide several AI models and development services in machi
 - [ID Card Recognition SDK](https://github.com/kby-ai/IDCard-Recognition-SDK)
 
 # Demo Project
-## 1. Face Liveness Detection Demo
+## 1. Face Liveness Detection
 - [Face Liveness Detection - Android(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-Android)
 - [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)
 - [Face Liveness Detection - Linux](https://github.com/kby-ai/FaceLivenessDetection-Docker)
 - [Face Liveness Detection - Windows](https://github.com/kby-ai/FaceLivenessDetection-Windows)
 
-## 2. Face Recognition Demo
+## 2. Face Recognition
 - [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
 - [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
 - [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
 - [Face Recognition - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
+- [Face Recognition - Javasript](https://github.com/kby-ai/FaceRecognition-Javascript)
 - [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)
 - [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
 
-## 3. Face Attribute Demo
-- [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
-- [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
-
-## 4. ID Card Recognition Demo
+## 3. ID Card Recognition
 - [IDCardRecognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)
 - [IDCardRecognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)
 - [IDCardRecognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)
 - [IDCardRecognition - Windows](https://github.com/kby-ai/FaceLivenessDetection-Windows)
+
+## 4. Face Attribute
+- [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
+- [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
+
+## 5. Face Capture
+- [Face Capture - Javascript](https://github.com/kby-ai/facecapture-web)
+
+## 6. Face Tracking
+- [Face Tracker - Linux](https://github.com/kby-ai/Face-Tracker-Linux)
+- [Face Tracker - Windows](https://github.com/kby-ai/Face-Tracker-Windows)
 
 # Test Product
 ## 1. Online Demo
