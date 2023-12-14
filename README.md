@@ -29,6 +29,7 @@ Besides that, we can provide several AI models and development services in machi
 - [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
 - [Face Recognition - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
 - [Face Recognition - Javasript](https://github.com/kby-ai/FaceRecognition-Javascript)
+- [Face Recognition - Vue](https://github.com/kby-ai/FaceRecognition-Vue)
 - [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)
 - [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
 
