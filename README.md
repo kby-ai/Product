@@ -51,6 +51,10 @@ Besides that, we can provide several AI models and development services in machi
 - [Face Tracker - Linux](https://github.com/kby-ai/Face-Tracker-Linux)
 - [Face Tracker - Windows](https://github.com/kby-ai/Face-Tracker-Windows)
 
+## 7. OCR Solutions
+- [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition)
+- [Kby OCR - Python](https://github.com/kby-ai/Kby-OCR)
+
 # Test Product
 ## 1. Online Demo
   You can test the SDK using images from the following URL:
