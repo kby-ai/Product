@@ -28,9 +28,6 @@ Besides that, we can provide several AI models and development services in machi
 - [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
 - [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
 - [Face Recognition - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
-- [Face Recognition - Javascript](https://github.com/kby-ai/FaceRecognition-Javascript)
-- [Face Recognition - Vue](https://github.com/kby-ai/FaceRecognition-Vue)
-- [Face Recognition - React](https://github.com/kby-ai/FaceRecognition-React)
 - [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)
 - [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
 
@@ -53,7 +50,6 @@ Besides that, we can provide several AI models and development services in machi
 
 ## 7. OCR Solutions
 - [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition)
-- [Kby OCR - Python](https://github.com/kby-ai/Kby-OCR)
 
 # Test Product
 ## 1. Online Demo
