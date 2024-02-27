@@ -5,12 +5,11 @@
 </p>
 
 # Documents
-Help Center: https://docs.kby-ai.com
+To learn more about our products, please visit [here](https://docs.kby-ai.com)
 
 # Product & Resources
-We offer SDKs for Face Recognition, Face Liveness Detection(Face Anti-Spoofing), and ID Card Recognition.
-
-Besides that, we can provide several AI models and development services in machine learning.
+We offer SDKs for face recognition, face liveness detection(face anti-spoofing), and ID card recognition.</br>
+Besides that, we provide several AI models and software development services in machine learning.
 
 - [Face Liveness Detection SDK](https://github.com/kby-ai/Face-Liveness-Detection-SDK)
 - [Face Recognition SDK](https://github.com/kby-ai/Face-Recognition-SDK)
@@ -53,8 +52,7 @@ Besides that, we can provide several AI models and development services in machi
 
 # Testing Product
 ## 1. Online Demo
-  You can test the SDK using images from the following URL:
-  https://web.kby-ai.com
+  To test our SDKs on the web browser, please visit the following page [here](https://web.kby-ai.com)
 
 ![image](https://github.com/kby-ai/Product/assets/125717930/6f6ad933-bed0-4ff6-81aa-58aba13e6845)
 
