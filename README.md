@@ -70,10 +70,10 @@ Besides that, we provide several AI models and software development services in 
 
 ## Contact Us
 ```
-Website: https://kby-ai.com<br/>
-Email: contact@kby-ai.com<br/>
-Telegram: @kbyai<br/>
-WhatsApp: +19092802609<br/>
-Skype: live:.cid.66e2522354b1049b<br/>
+Website: https://kby-ai.com
+Email: contact@kby-ai.com
+Telegram: @kbyai
+WhatsApp: +19092802609
+Skype: live:.cid.66e2522354b1049b
 Facebook: https://www.facebook.com/KBYAI
 ```
