@@ -16,7 +16,7 @@ Besides that, we can provide several AI models and development services in machi
 - [Face Recognition SDK](https://github.com/kby-ai/Face-Recognition-SDK)
 - [ID Card Recognition SDK](https://github.com/kby-ai/IDCard-Recognition-SDK)
 
-# Demo Project
+# Our Projects
 ## 1. Face Liveness Detection
 - [Face Liveness Detection - Android(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-Android)
 - [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)
@@ -51,7 +51,7 @@ Besides that, we can provide several AI models and development services in machi
 ## 7. OCR Solutions
 - [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition)
 
-# Test Product
+# Testing Product
 ## 1. Online Demo
   You can test the SDK using images from the following URL:
   https://web.kby-ai.com
