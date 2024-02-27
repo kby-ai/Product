@@ -4,10 +4,10 @@
   </a>  
 </p>
 
-## Documents
+## ✅ Documents
 To learn more about our products, please visit [here](https://docs.kby-ai.com)
 
-## Product & Resources
+## ✅ Product & Resources
 We offer SDKs for face recognition, face liveness detection(face anti-spoofing), and ID card recognition.</br>
 Besides that, we provide several AI models and software development services in machine learning.
 
@@ -15,7 +15,7 @@ Besides that, we provide several AI models and software development services in 
 - [Face Recognition SDK](https://github.com/kby-ai/Face-Recognition-SDK)
 - [ID Card Recognition SDK](https://github.com/kby-ai/IDCard-Recognition-SDK)
 
-## Our Projects
+## ✅ Our Projects
 ### 1. Face Liveness Detection
 - [Face Liveness Detection - Android(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-Android)
 - [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)
@@ -50,7 +50,7 @@ Besides that, we provide several AI models and software development services in 
 ### 7. OCR Solutions
 - [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition)
 
-## Testing Product
+## ✅ Testing Product
 ### 1. Online Demo
   To test our SDKs on the web browser, please visit the following page [here](https://web.kby-ai.com)
 
@@ -68,10 +68,12 @@ Besides that, we provide several AI models and software development services in 
   <img alt="" src="https://user-images.githubusercontent.com/125717930/235276083-d20fe057-214d-497c-a431-4569bbeed2fe.png" height=80/>
 </a>
 
-# Contact Us
+## Contact Us
+```
 Website: https://kby-ai.com<br/>
 Email: contact@kby-ai.com<br/>
 Telegram: @kbyai<br/>
 WhatsApp: +19092802609<br/>
 Skype: live:.cid.66e2522354b1049b<br/>
 Facebook: https://www.facebook.com/KBYAI
+```
