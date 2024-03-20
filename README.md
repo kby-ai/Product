@@ -40,14 +40,17 @@ Besides that, we provide several AI models and software development services in 
 - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 - [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
 
-### 5. Face Capture
+### 5. eKYC Verification Demo
+- [eKYC Verification Demo - Android](https://github.com/kby-ai/KYC-Verification-Demo-Android)
+  
+### 6. Face Capture
 - [Face Capture - Javascript](https://github.com/kby-ai/facecapture-web)
 
-### 6. Face Tracking
+### 7. Face Tracking
 - [Face Tracker - Linux](https://github.com/kby-ai/Face-Tracker-Linux)
 - [Face Tracker - Windows](https://github.com/kby-ai/Face-Tracker-Windows)
 
-### 7. OCR Solutions
+### 8. OCR Solutions
 - [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition)
 
 ## ✅ Testing Product
