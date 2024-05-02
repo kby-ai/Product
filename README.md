@@ -53,6 +53,7 @@ Besides that, we provide several AI models and software development services in 
 
 ### 8. ALPR/ANPR
 - [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Python)
+- [Automatic License Plate Recognition - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)
 
 ## ✅ Testing Product
 ### 1. Online Demo
