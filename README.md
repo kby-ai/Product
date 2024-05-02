@@ -33,6 +33,7 @@ Besides that, we provide several AI models and software development services in 
 ### 3. ID Card Recognition
 - [IDCardRecognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)
 - [IDCardRecognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)
+- [IDCardRecognition - Flutter](https://github.com/kby-ai/IDCardRecognition-Flutter)
 - [IDCardRecognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)
 - [IDCardRecognition - Windows](https://github.com/kby-ai/FaceLivenessDetection-Windows)
 
