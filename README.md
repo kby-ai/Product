@@ -52,7 +52,7 @@ Besides that, we provide several AI models and software development services in 
 - [Face Tracker - Windows](https://github.com/kby-ai/Face-Tracker-Windows)
 
 ### 8. ALPR/ANPR
-- [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition)
+- [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Python)
 
 ## ✅ Testing Product
 ### 1. Online Demo
