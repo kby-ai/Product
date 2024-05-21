@@ -44,8 +44,9 @@ Besides that, we provide several AI models and software development services in 
 ### 5. eKYC Verification Demo
 - [eKYC Verification Demo - Android](https://github.com/kby-ai/KYC-Verification-Demo-Android)
   
-### 6. Face Capture
+### 6. Auto Capture on Web Front-end
 - [Face Capture - Javascript](https://github.com/kby-ai/facecapture-web)
+- [ID Document Capture - Javascript](https://github.com/kby-ai/ID-document-capture-Javascript)
 
 ### 7. Face Tracking
 - [Face Tracker - Linux](https://github.com/kby-ai/Face-Tracker-Linux)
