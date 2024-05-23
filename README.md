@@ -35,7 +35,7 @@ Besides that, we provide several AI models and software development services in 
 - [IDCardRecognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)
 - [IDCardRecognition - Flutter](https://github.com/kby-ai/IDCardRecognition-Flutter)
 - [IDCardRecognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)
-- [IDCardRecognition - Windows](https://github.com/kby-ai/FaceLivenessDetection-Windows)
+- [IDCardRecognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)
 
 ### 4. Face Attribute
 - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
