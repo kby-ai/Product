@@ -45,6 +45,7 @@ Besides that, we provide several AI models and software development services in 
 ### 4. Face Attribute
 - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 - [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
+- [Face Attribute - Flutter(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Flutter)
 
 ### 5. Auto Capture on Web Front-end
 - [Face Capture - Javascript](https://github.com/kby-ai/facecapture-web)
