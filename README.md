@@ -4,6 +4,7 @@
   </a>  
 </p>
 
+#### 🤗 Hugging Face - [Here](https://huggingface.co/kby-ai) <span> <img src="https://github.com/kby-ai/.github/assets/125717930/bcf351c5-8b7a-496e-a8f9-c236eb8ad59e" style="margin: 4px; width: 36px; height: 20px"> <span/>
 #### 🚀 ID Document Auto-Capture on Web Front-end - [ID Document Capture - React](https://github.com/kby-ai/ID-document-capture-React) <span> <img src="https://github.com/kby-ai/.github/assets/125717930/bcf351c5-8b7a-496e-a8f9-c236eb8ad59e" style="margin: 4px; width: 36px; height: 20px"> <span/>
 #### 💼 KYC Verification Demo - [Here](https://github.com/kby-ai/KYC-Verification-Demo-Android) <span> <img src="https://github.com/kby-ai/.github/assets/125717930/bcf351c5-8b7a-496e-a8f9-c236eb8ad59e" style="margin: 4px; width: 36px; height: 20px"> <span/>
 #### 📚 Product & Resources - [Here](https://github.com/kby-ai/Product)
@@ -37,11 +38,11 @@ Besides that, we provide several AI models and software development services in 
 - [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
 
 ### 3. ID Card Recognition
-- [IDCardRecognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)
-- [IDCardRecognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)
-- [IDCardRecognition - Flutter](https://github.com/kby-ai/IDCardRecognition-Flutter)
-- [IDCardRecognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)
-- [IDCardRecognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)
+- [ID Card Recognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)
+- [ID Card Recognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)
+- [ID Card Recognition - Flutter](https://github.com/kby-ai/IDCardRecognition-Flutter)
+- [ID Card Recognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)
+- [ID Card Recognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)
 
 ### 4. Face Attribute
 - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
@@ -62,6 +63,9 @@ Besides that, we provide several AI models and software development services in 
 ### 8. ALPR/ANPR
 - [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Python)
 - [Automatic License Plate Recognition - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)
+
+### 9. Palm Recognition
+- [Palm Recognition - Android](https://github.com/kby-ai/PalmRecognition-Android)
 
 ## ✅ Testing Product
 ### 1. Online Demo
