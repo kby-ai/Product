@@ -36,6 +36,7 @@ Besides that, we provide several AI models and software development services in 
 - [Face Recognition - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
 - [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)
 - [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
+- [Face Recognition - C#](https://github.com/kby-ai/FaceRecognition-CSharp-.NET)
 
 ### 3. ID Card Recognition
 - [ID Card Recognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)
