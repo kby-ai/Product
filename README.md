@@ -66,7 +66,8 @@ Besides that, we provide several AI models and software development services in 
 - [Automatic License Plate Recognition - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)
 
 ### 9. Palm Recognition
-- [Palm Recognition - Android](https://github.com/kby-ai/PalmRecognition-Android)
+- [Palmprint Recognition - Android](https://github.com/kby-ai/PalmRecognition-Android)
+- [Palmprint Recognition - Linux](https://github.com/kby-ai/Palmprint-Recognition-Linux)
 
 ## ✅ Testing Product
 ### 1. Online Demo
