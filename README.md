@@ -32,6 +32,7 @@ And, we also provide clients with several software development services related 
 - [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)
 - [Face Liveness Detection - Linux](https://github.com/kby-ai/FaceLivenessDetection-Docker)
 - [Face Liveness Detection - Windows](https://github.com/kby-ai/FaceLivenessDetection-Windows)
+- [Face Active Liveness Detection - Android](https://github.com/kby-ai/FaceActiveLivenessDetection-Android)
 
 ### 2. Face Recognition
 - [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
@@ -97,6 +98,6 @@ And, we also provide clients with several software development services related 
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
 🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
 🧙`Skype:` [live:.cid.66e2522354b1049b](https://join.skype.com/invite/OffY2r1NUFev)</br>
-🧙`Facebook:` https://www.facebook.com/KBYAI</br>
+🧙`Discord:` [KBY-AI](https://discord.gg/CgHtWQ3k9T)</br>
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fkby-ai%2FProduct&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkby-ai%2FProduct)
