@@ -53,6 +53,7 @@ And, we also provide clients with several software development services related 
 - [ID Card Recognition - Flutter](https://github.com/kby-ai/IDCardRecognition-Flutter)
 - [ID Card Recognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)
 - [ID Card Recognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)
+- [ID Card Recognition - C#](https://github.com/kby-ai/IDCardRecognition-CSharp-.NET)
 
 ### 4. Face Attribute
 - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
@@ -65,14 +66,14 @@ And, we also provide clients with several software development services related 
   
 ### 6. eKYC Verification Demo
 - [eKYC Verification Demo - Android](https://github.com/kby-ai/KYC-Verification-Demo-Android)
-  
-### 7. Face Tracking
-- [Face Tracker - Linux](https://github.com/kby-ai/Face-Tracker-Linux)
-- [Face Tracker - Windows](https://github.com/kby-ai/Face-Tracker-Windows)
 
-### 8. ALPR/ANPR
+### 7. ALPR/ANPR
 - [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Python)
 - [Automatic License Plate Recognition - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)
+  
+### 8. Face Tracking
+- [Face Tracker - Linux](https://github.com/kby-ai/Face-Tracker-Linux)
+- [Face Tracker - Windows](https://github.com/kby-ai/Face-Tracker-Windows)
 
 ### 9. Palm Recognition
 - [Palmprint Recognition - Android](https://github.com/kby-ai/PalmRecognition-Android)
