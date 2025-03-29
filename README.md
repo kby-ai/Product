@@ -38,11 +38,11 @@ And, we also provide clients with several software development services related 
 - [Face Active Liveness Detection - Android](https://github.com/kby-ai/FaceActiveLivenessDetection-Android)
 
 ### 2. Face Recognition
-- [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
-- [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
-- [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
-- [Face Recognition - Ionic-Cordova](https://github.com/kby-ai/FaceRececognition-Ionic-Cordova)
-- [Face Recognition - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
+- [Face Recognition with Face Liveness Detection - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
+- [Face Recognition with Face Liveness Detection - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
+- [Face Recognition with Face Liveness Detection - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
+- [Face Recognition with Face Liveness Detection - Ionic-Cordova](https://github.com/kby-ai/FaceRececognition-Ionic-Cordova)
+- [Face Recognition with Face Liveness Detection - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
 - [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)
 - [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
 - [Face Recognition - C#](https://github.com/kby-ai/FaceRecognition-CSharp-.NET)
