@@ -80,6 +80,10 @@ And, we also provide clients with several software development services related 
 ### 9. Palm Recognition
 - [Palmprint Recognition - Android](https://github.com/kby-ai/PalmRecognition-Android)
 - [Palmprint Recognition - Linux](https://github.com/kby-ai/Palmprint-Recognition-Linux)
+- [Palmvein Recognition - Linux](https://github.com/kby-ai/Palmvein-Recognition-Docker)
+
+#### 10. Computer Vision Products
+- [Fire/Smoke Detection - Linux](https://github.com/kby-ai/Fire-Smoke-Detection-Docker)
 
 ## ✅ Testing Product
 ### 1. Online Demo
