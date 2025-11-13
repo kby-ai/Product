@@ -78,6 +78,7 @@ And, we also provide clients with several software development services related 
 - [Automatic License Plate Recognition - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)
 - [Automatic License Plate Recognition - C#](https://github.com/kby-ai/Automatic-License-Plate-Recognition-CSharp-.NET)
 - [Automatic License Plate Recognition - Android](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Android)
+- [Automatic License Plate Recognition - iOS](https://github.com/kby-ai/Automatic-License-Plate-Recognition-iOS)
   
 ### 8. Face Tracking
 - [Face Tracker - Linux](https://github.com/kby-ai/Face-Tracker-Linux)
