@@ -95,7 +95,7 @@ And, we also provide clients with several software development services related 
 
 ## ✅ Testing Product
 ### 1. Online Demo
-  To test our SDKs on the web browser, please visit the following page [here](https://web.kby-ai.com)
+  To test our `SDK`s in a web browser, please visit the following page [here](https://web.kby-ai.com)
 
 ![image](https://github.com/kby-ai/Product/assets/125717930/6f6ad933-bed0-4ff6-81aa-58aba13e6845)
 
