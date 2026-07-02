@@ -51,6 +51,7 @@ And, we also provide clients with several software development services related 
 - [Face Recognition - React](https://github.com/kby-ai/FaceRecognition-React)
 - [Face Search - Linux](https://github.com/kby-ai/FaceSearch-Docker)
 - [Face Group Identification - Android](https://github.com/kby-ai/Face-Group-Identification-Android)
+- [Face Recognition Open Source](https://github.com/kby-ai/Face-Recognition-Open-Source-Free-SDK)
 
 ### 3. ID Card Recognition
 - [ID Card Recognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)
